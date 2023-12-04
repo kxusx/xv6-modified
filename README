@@ -9,5 +9,4 @@ For this project, I added features like
 2) Scheduling using the following policies 
     - FCFS ( First Come First Serve )
     - PBS  ( Priority Bases Scheduler )
-    - MLFQ ( Multilevel Feedback queue scheduling )
 3) procdump 
